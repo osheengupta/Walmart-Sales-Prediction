@@ -40,7 +40,7 @@ Three forecasting models were developed and compared:
 4. Explore `forecast_results.csv` for detailed predictions.
 
 ## Author
-Osheen Gupta (je7800)  
+Osheen Gupta
 Master of Science in Business Analytics
 
 ---
